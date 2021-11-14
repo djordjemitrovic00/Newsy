@@ -43,7 +43,7 @@ Like any other social network, you need your own account. As any other person us
 ![image](https://user-images.githubusercontent.com/92331382/141690047-d42ca7ae-9975-42df-9315-54082168be7e.png)
 
 #### Firestore database
-Database is crucial for application like this. Firestore offers very organised database, which brings ease of use. On Firestore is stored all news, all posts of news, and also all posts made by Community, their unique IDs, their publishing date, also all users who liked, commented or mentioned some posts. Also in Firestore is stored all data of users. You can search for specific user, by typing their username. Search results that are shown must beggin with, or be exact as search query.
+Database is crucial for application like this. Firestore offers very organised database, which brings ease of use. On Firestore are stored all news, all posts of news, and also all posts made by Community, their unique IDs, their publishing date, also all users who liked, commented or mentioned some posts. Also in Firestore are stored all data of users. You can search for specific user, by typing their username. Search results that are shown must beggin with, or be exact as search query.
 
 ![image](https://user-images.githubusercontent.com/92331382/141690846-240c634f-c65b-4be6-bf19-2b73b7930bb7.png)
 
@@ -67,7 +67,7 @@ There are used some libraries that helped building functionality and/or design o
 
 # Conclusion
 It is planned to work on improving the functionality of an application. One of the features I intend building in, which I consider is the most important, is Firebase Cloud functions, which will automatically push notification when some user is recieving a message or friend request, on which you can respond directly from notification bar without entering application. This application may be uploaded on Google Play store when all upgrades are done, but it will remain open-source.
-This is my first project, and I am aware that many things can be done better, and I am willing to put myself into upgrading application. Reason why I haven't made it in Java(Android Studio), is that I am willing to learn Swift, and make this application available for both Android and iOS, and I honestly it will happen in the near future.
+This is my first project, and I am aware that many things can be done better, and I am willing to put myself into upgrading application. Reason why I haven't made it in Java(Android Studio), is that I am willing to learn Swift, and make this application available for both Android and iOS, and I honestly hope it will happen in the near future.
 
 
 
